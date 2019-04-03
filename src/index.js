@@ -4,6 +4,10 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
+// import PropTypes from 'prop-types';
+
+// import { Typography }from '@material-ui/core/Typography';
+// import { Slider } from '@material-ui/lab/Slider';
 ReactDOM.render(<App />, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
